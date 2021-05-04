@@ -5,9 +5,9 @@ http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w464251518.m3u8
 http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1 group-title="(Brasil)",  TV Guarany
 http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="(Brasil)",  tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", TV Difusora Sul
+#EXTINF:-1 group-title="(Brasil)",TV Difusora Sul
 http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="(Brasil)",  tvg-name="TVE" tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", TVE
+#EXTINF:-1 group-title="(Brasil)",TVE
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="(Brasil)",NTV Patos de Minas
 https://hls.brasilstream.com.br/live/ntv/ntv/mono.m3u8?token=10892960469507766000&PlaylistM3UCL
