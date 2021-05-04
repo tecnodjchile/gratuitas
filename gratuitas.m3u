@@ -9,7 +9,7 @@ http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8?PlaylistM3UCL
 http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="(Brasil)",  tvg-name="TVE" tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", TVE
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="(Brasil)", tvg-name="NTV Patos de Minas" tvg-logo="", NTV Patos de Minas
+#EXTINF:-1 group-title="(Brasil)",NTV Patos de Minas
 https://hls.brasilstream.com.br/live/ntv/ntv/mono.m3u8?token=10892960469507766000&PlaylistM3UCL
 #EXTINF:-1 group-title="(Brasil)", tvg-name="Rede Brasil de Televisão" tvg-logo="", Rede Brasil de Televisão
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?PlaylistM3UCL
