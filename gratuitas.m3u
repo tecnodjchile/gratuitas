@@ -1,124 +1,65 @@
 #EXTM3U
-#EXTINF:-1 group-title="(Brasil)",01
-http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1, group-title="(Brasil)",02
-http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8?EDSONSOUSALIST
-#EXTINF:-1, group-title="(Brasil)",03
-http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8?EDSONSOUSALIST
-#EXTINF:-1, group-title="(Brasil)",04
-http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8?EDSONSOUSALIST
-#EXTINF:-1, group-title="(Brasil)",05
-http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8?EDSONSOUSALIST
-#EXTINF:-1, group-title="(Brasil)",06
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?EDSONSOUSALIST
-#EXTINF:-1, group-title="(Brasil)",07
-http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w752051049.m3u8?EDSONSOUSALIST
-#EXTINF:-1, group-title="(Brasil)",08
-http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1, group-title="(Brasil)",09
-http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w980633800.m3u8?EDSONSOUSALIST
-#EXTINF:-1, group-title="(Brasil)",10
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8?EDSONSOUSALIST
-#EXTINF:-1, group-title="(Brasil)",11
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:-1, group-title="(Brasil)",12
-http://rbc.directradios.com:1935/rbc/rbc_720p/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1, group-title="(Brasil)",13
-http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?EDSONSOUSALIST
-#EXTINF:-1, group-title="(Brasil)",14
-http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?EDSONSOUSALIST
-#EXTINF:-1, group-title="(Brasil)",15
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1, group-title="(Brasil)",16
-http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8?EDSONSOUSALIST
-#EXTINF:-1, group-title="(Brasil)",17
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1186304523.m3u8?EDSONSOUSALIST
-#EXTINF:-1, group-title="(Brasil)",18
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8?EDSONSOUSALIST
-#EXTINF:-1, group-title="(Brasil)",19
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?EDSONSOUSALIST
-#EXTINF:-1, group-title="(Brasil)",20
-http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8?EDSONSOUSALIST
-#EXTINF:-1, group-title="(Brasil)",21
-http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8?EDSONSOUSALIST
-#EXTINF:-1, group-title="(Brasil)",22
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1, group-title="(Brasil)",23
-https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/chunklist_w323615480.m3u8?EDSONSOUSALIST
-#EXTINF:-1, group-title="(Brasil)",  TV Guarany
-http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, group-title="(Brasil)", TV Difusora Sul
-http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, group-title="(Brasil)", TV Plan
-http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, group-title="(Brasil)", TVE
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, group-title="(Brasil)", TV Viçosa
-http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, group-title="(Brasil)", TV Caravelas
-https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, group-title="(Brasil)", Rede Brasil de Televisão
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, group-title="(Brasil)", TV Atividade
-https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, group-title="(Brasil)", TV Poços
-https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, group-title="(Brasil)",TV Candides
-https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, group-title="(Brasil)",NTV Patos de Minas
-https://hls.brasilstream.com.br/live/ntv/ntv/mono.m3u8?token=10892960469507766000&PlaylistM3UCL
-#EXTINF:-1, group-title="(Brasil)",TV CN Agitos
-https://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, group-title="(Brasil)", TV Mozambique
-http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
-#EXTINF:-1, group-title="(Brasil)", SBT (MA)
-http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w464251518.m3u8
-#EXTINF:-1, group-title="(Brasil)",SBT
-http://srv3.zoeweb.tv:1935/z438-live/stream/livestream.m3u8
-#EXTINF:-1, group-title="(Brasil)",TV BRASIL - TVCOM (AL)
-http://srv6.zoeweb.tv:1935/z883-live/stream/livestream.m3u8
-#EXTINF:-1, group-title="(Brasil)",TV BRASIL - REDE MINAS (MG) HD
-http://tv01.logicahost.com.br:1935/webtvminas/webtvminas/live.m3u8
-#EXTINF:-1,  group-title="(Brasil)",TV CULTURA HD - TV CATVE (PR)
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w529672192.m3u8
-#EXTINF:-1, group-title="(Brasil)",TV CULTURA HD - MASTER TV (PR)
-http://wowza4.catve.com.br:1935/mastertv/livestream/chunklist_w1821412394.m3u8
-#EXTINF:-1,  group-title="(Brasil)",PT: MASTER TV
-http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
-#EXTINF:-1, group-title="(Brasil)",TV DESTAK (SP)
-http://wse01.logicahost.com.br:1935/pascoal/_definst_/pascoal/chunklist_w1869059217.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d6/Record_logo_2016.png"  group-title="(Brasil)",RecordTV
-http://rcoberturahls-lh.akamaihd.net/i/rcoberturahls_1@7407/master.m3u8
-#EXTINF:-1, tvg-id="" tvg-logo="http://i.imgur.com/RNtmXsk.png" group-title="(Brasil)",Gospel Music Television
-http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8
-#EXTINF:-1, tvg-id="" tvg-logo="https://s29.postimg.org/3oe7k3gif/bg_rodape_logo_tv_ufg.png" group-title="(Brasil)",UFG TV
-http://wowza.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="http://www.portalimprensa.com.br/content_file_storage/2015/03/19/SBT.jpg" group-title="(Brasil)",SBT Sao Paulo
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:-1, tvg-id="" tvg-logo="http://i.imgur.com/nkSmEG9.jpg" group-title="(Brasil)",Porto Canal
-http://213.13.26.11:1935/live/portocanal/playlist.m3u8
-#EXTINF:-1, group-title="(Brasil)",REDE EVANGELIZAR
-http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8?
-#EXTINF:-1, group-title="(Brasil)",TV CI
-http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8?
-#EXTINF:-1, group-title="(Brasil)",TV DIFUSORA SUL HD 
-http://srv3.zoeweb.tv:1935/z438-live/stream/livestream.m3u8?
-#EXTINF:-1, group-title="(Brasil)",TVCOM MACEIÃ
-http://srv6.zoeweb.tv:1935/z883-live/stream/livestream.m3u8?
-#EXTINF:-1, group-title="(Brasil)",TV ALMG
-http://streaming.almg.gov.br:80/live/tvalmg.m3u8?
-#EXTINF:-1, group-title="(Brasil)",TV CÃMARA JACAREÃ
-http://svideo.nipbr.com.br:1935/tvcamarajacarei/aovivo/live.m3u8?
-#EXTINF:-1, group-title="(Brasil)",UNISC TV
-http://tv.unisc.br:80/hls/test.m3u8?
-#EXTINF:-1, group-title="(Brasil)",TV FÃTIMA PARATIBE
-http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8?
-#EXTINF:-1, group-title="(Brasil)",ITU TV 
-http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?
-#EXTINF:-1, group-title="(Brasil)",TV DIGITAL BIRIGUI 
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?
-#EXTINF:-1, group-title="(Brasil)",TV EVANGELIZAR
-http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8?
+#EXTINF:-1 group-title="(Brasil)",01	http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="(Brasil)",02	http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="(Brasil)",03	http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="(Brasil)",04	http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="(Brasil)",05	http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="(Brasil)",06	http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="(Brasil)",07	http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w752051049.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="(Brasil)",08	http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="(Brasil)",09	http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w980633800.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="(Brasil)",10	http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="(Brasil)",11	http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="(Brasil)",12	http://rbc.directradios.com:1935/rbc/rbc_720p/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="(Brasil)",13	http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="(Brasil)",14	http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="(Brasil)",15	http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="(Brasil)",16	http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="(Brasil)",17	http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1186304523.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="(Brasil)",18	http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="(Brasil)",19	http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="(Brasil)",20	http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="(Brasil)",21	http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="(Brasil)",22	https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="(Brasil)",23	https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/chunklist_w323615480.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="(Brasil)",  TV Guarany	http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="(Brasil)", TV Difusora Sul	http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="(Brasil)", TV Plan	http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="(Brasil)", TVE	http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="(Brasil)", TV Viçosa	http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="(Brasil)", TV Caravelas	https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="(Brasil)", Rede Brasil de Televisão	https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="(Brasil)", TV Atividade	https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="(Brasil)", TV Poços	https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="(Brasil)",TV Candides	https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="(Brasil)",NTV Patos de Minas	https://hls.brasilstream.com.br/live/ntv/ntv/mono.m3u8?token=10892960469507766000&PlaylistM3UCL
+#EXTINF:-1 group-title="(Brasil)",TV CN Agitos	https://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="(Brasil)", TV Mozambique	http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
+#EXTINF:-1 group-title="(Brasil)", SBT (MA)	http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w464251518.m3u8
+#EXTINF:-1 group-title="(Brasil)",SBT	http://srv3.zoeweb.tv:1935/z438-live/stream/livestream.m3u8
+#EXTINF:-1 group-title="(Brasil)",TV BRASIL - TVCOM (AL)	http://srv6.zoeweb.tv:1935/z883-live/stream/livestream.m3u8
+#EXTINF:-1 group-title="(Brasil)",TV BRASIL - REDE MINAS (MG) HD	http://tv01.logicahost.com.br:1935/webtvminas/webtvminas/live.m3u8
+#EXTINF:-1  group-title="(Brasil)",TV CULTURA HD - TV CATVE (PR)	http://wowza4.catve.com.br:1935/live/livestream/chunklist_w529672192.m3u8
+#EXTINF:-1 group-title="(Brasil)",TV CULTURA HD - MASTER TV (PR)	http://wowza4.catve.com.br:1935/mastertv/livestream/chunklist_w1821412394.m3u8
+#EXTINF:-1  group-title="(Brasil)",PT: MASTER TV	http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="(Brasil)",TV DESTAK (SP)	http://wse01.logicahost.com.br:1935/pascoal/_definst_/pascoal/chunklist_w1869059217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d6/Record_logo_2016.png"  group-title="(Brasil)",RecordTV	http://rcoberturahls-lh.akamaihd.net/i/rcoberturahls_1@7407/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/RNtmXsk.png" group-title="(Brasil)",Gospel Music Television	http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s29.postimg.org/3oe7k3gif/bg_rodape_logo_tv_ufg.png" group-title="(Brasil)",UFG TV	http://wowza.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.portalimprensa.com.br/content_file_storage/2015/03/19/SBT.jpg" group-title="(Brasil)",SBT Sao Paulo	http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/nkSmEG9.jpg" group-title="(Brasil)",Porto Canal	http://213.13.26.11:1935/live/portocanal/playlist.m3u8
+#EXTINF:-1 group-title="(Brasil)",REDE EVANGELIZAR	http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8?
+#EXTINF:-1 group-title="(Brasil)",TV CI	http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8?
+#EXTINF:-1 group-title="(Brasil)",TV DIFUSORA SUL HD 	http://srv3.zoeweb.tv:1935/z438-live/stream/livestream.m3u8?
+#EXTINF:-1 group-title="(Brasil)",TVCOM MACEIÃ	http://srv6.zoeweb.tv:1935/z883-live/stream/livestream.m3u8?
+#EXTINF:-1 group-title="(Brasil)",TV ALMG	http://streaming.almg.gov.br:80/live/tvalmg.m3u8?
+#EXTINF:-1 group-title="(Brasil)",TV CÃMARA JACAREÃ	http://svideo.nipbr.com.br:1935/tvcamarajacarei/aovivo/live.m3u8?
+#EXTINF:-1 group-title="(Brasil)",UNISC TV	http://tv.unisc.br:80/hls/test.m3u8?
+#EXTINF:-1 group-title="(Brasil)",TV FÃTIMA PARATIBE	http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8?
+#EXTINF:-1 group-title="(Brasil)",ITU TV 	http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?
+#EXTINF:-1 group-title="(Brasil)",TV DIGITAL BIRIGUI 	http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?
+#EXTINF:-1 group-title="(Brasil)",TV EVANGELIZAR	http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8?
+
 #EXTINF:0, group-title="(Nacionales)",TEC Television Temuco 
 http://190.107.176.55:1935/live/tec-tv/chunklist_w1055014753.m3u8
 #EXTINF:0, group-title="(Nacionales)",Tv 4 Lota 
